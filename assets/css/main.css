@@ -1,12 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
-/*
-	Big Picture by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -1017,7 +1011,7 @@ input, select, textarea {
 		ul.menu li {
 			display: inline-block;
 			line-height: 1em;
-			border-left: solid 1px #e5e6e7;
+			border-left: solid 1px #1d1d1d;
 			padding: 0 0 0 0.5em;
 			margin: 0 0 0 0.5em;
 		}
@@ -2175,9 +2169,9 @@ input, select, textarea {
 		position: relative;
 		margin: 0;
 		line-height: 1em;
-		padding: 1.5em;
-		background: #39454b;
-		color: rgba(185, 186, 187, 0.5);
+		padding: 1em;
+		background: #608590;
+		color: rgba(0, 0, 0);
 		overflow: hidden;
 	}
 
@@ -2198,7 +2192,7 @@ input, select, textarea {
 		}
 
 			#footer ul.menu li {
-				border-left-color: rgba(185, 186, 187, 0.2);
+				border-left-color: rgba(68, 68, 68, 0.2);
 				font-size: 0.9em;
 			}
 
